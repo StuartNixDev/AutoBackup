@@ -1,0 +1,294 @@
+2023-04-15 14:42:13.008 +01:00 [INF] Getting Files from Directory
+2023-04-15 14:42:28.905 +01:00 [INF] Getting Files from Directory
+2023-04-15 14:42:46.070 +01:00 [ERR] Could not access directory!
+2023-04-15 14:43:00.143 +01:00 [INF] Getting Files from Directory
+2023-04-15 14:44:17.159 +01:00 [ERR] Could not access directory!
+2023-04-15 14:44:43.486 +01:00 [ERR] Could not access directory!
+2023-04-15 14:53:15.168 +01:00 [ERR] Could not access directory!
+2023-04-15 14:53:59.173 +01:00 [INF] Getting Files from Directory
+2023-04-15 15:11:24.085 +01:00 [INF] Getting Files from Directory
+2023-04-15 15:12:14.106 +01:00 [INF] Getting Files from Directory
+2023-04-15 15:12:59.692 +01:00 [INF] Getting Files from Directory
+2023-04-15 15:52:16.954 +01:00 [INF] Getting Files from Directory
+2023-04-15 16:34:32.887 +01:00 [INF] Getting Files from Directory
+2023-04-15 16:41:38.612 +01:00 [INF] Getting Files from Directory
+2023-04-15 16:46:00.346 +01:00 [INF] Getting Files from Directory
+2023-04-15 16:46:00.412 +01:00 [INF] Total number of files copied is 14
+2023-04-15 16:47:25.717 +01:00 [INF] Getting Files from Directory
+2023-04-15 16:47:25.766 +01:00 [INF] Total number of files copied is 14
+2023-04-15 17:02:13.241 +01:00 [INF] Getting Files from Directory
+2023-04-15 17:02:13.299 +01:00 [INF] Total number of files copied is 14
+2023-04-15 17:04:34.482 +01:00 [INF] Getting Files from Directory
+2023-04-15 17:04:34.528 +01:00 [INF] Total number of files copied is 14
+2023-04-15 17:55:21.982 +01:00 [INF] Getting Files from Directory
+2023-04-15 17:55:22.035 +01:00 [INF] Total number of files copied is 14
+2023-04-15 17:58:15.062 +01:00 [INF] Getting Files from Directory
+2023-04-15 17:58:15.119 +01:00 [INF] Total number of files copied is 14
+2023-04-15 17:59:47.267 +01:00 [INF] Getting Files from Directory
+2023-04-15 17:59:58.918 +01:00 [INF] Getting Files from Directory
+2023-04-15 18:02:14.518 +01:00 [INF] Getting Files from Directory
+2023-04-15 18:04:40.005 +01:00 [INF] Getting Files from Directory
+2023-04-16 15:30:14.792 +01:00 [INF] Getting Files from Directory
+2023-04-16 15:42:02.815 +01:00 [INF] Getting Files from Directory
+2023-04-16 15:42:02.942 +01:00 [INF] Number of files copied is: 11
+2023-04-16 16:20:54.078 +01:00 [INF] Getting Files from Directory
+2023-04-16 16:20:54.128 +01:00 [INF] Number of files copied is: 11
+2023-04-16 16:23:28.509 +01:00 [INF] Getting Files from Directory
+2023-04-16 16:23:28.545 +01:00 [INF] Number of files copied is: 11
+2023-04-16 16:49:12.790 +01:00 [INF] Getting Files from Directory
+2023-04-16 16:49:12.821 +01:00 [INF] Number of files copied is: 11
+2023-04-16 16:49:35.551 +01:00 [INF] Getting Files from Directory
+2023-04-16 16:49:35.583 +01:00 [INF] Number of files copied is: 11
+2023-04-16 16:50:48.810 +01:00 [INF] Getting Files from Directory
+2023-04-16 16:50:48.841 +01:00 [INF] Number of files copied is: 11
+2023-04-16 17:03:12.169 +01:00 [INF] Getting Files from Directory
+2023-04-16 17:03:12.199 +01:00 [INF] Number of files copied is: 11
+2023-04-16 17:03:40.703 +01:00 [INF] Getting Files from Directory
+2023-04-16 17:03:40.767 +01:00 [INF] Number of files copied is: 11
+2023-04-16 18:04:55.316 +01:00 [INF] Getting Files from Directory
+2023-04-16 18:04:55.339 +01:00 [INF] Number of files copied is: 11
+2023-04-16 18:05:14.297 +01:00 [INF] Getting Files from Directory
+2023-04-16 18:05:14.317 +01:00 [INF] Number of files copied is: 11
+2023-04-16 18:06:07.312 +01:00 [INF] Getting Files from Directory
+2023-04-16 18:06:07.331 +01:00 [INF] Number of files copied is: 11
+2023-04-16 18:15:10.014 +01:00 [INF] Getting Files from Directory
+2023-04-16 18:15:10.034 +01:00 [INF] Number of files copied is: 11
+2023-04-16 21:16:18.871 +01:00 [INF] Getting Files from Directory
+2023-04-16 21:16:18.890 +01:00 [INF] Number of files copied is: 11
+2023-04-16 21:22:16.894 +01:00 [INF] Getting Files from Directory
+2023-04-16 21:22:16.918 +01:00 [INF] Number of files copied is: 11
+2023-04-16 21:22:37.513 +01:00 [INF] Getting Files from Directory
+2023-04-16 21:22:37.540 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:01:49.105 +01:00 [INF] Getting Files from Directory
+2023-04-17 19:01:49.202 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:02:21.146 +01:00 [INF] Getting Files from Directory
+2023-04-17 19:02:21.206 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:06:36.601 +01:00 [INF] Getting Files from Directorys
+2023-04-17 19:06:36.658 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:07:55.708 +01:00 [INF] Getting Files from Directorys
+2023-04-17 19:07:55.751 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:08:56.071 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:08:56.127 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:10:48.766 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:10:48.805 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:10:50.834 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-17 19:10:50.838 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:11:30.065 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:11:30.114 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:12:14.722 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:12:14.772 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:12:18.910 +01:00 [ERR] Could not access directory!
+2023-04-17 19:15:36.187 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:15:36.246 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:15:36.250 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-17 19:15:36.252 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:55:35.064 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:55:35.132 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:55:35.134 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-17 19:55:35.136 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:57:27.632 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:57:27.694 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:57:27.697 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-17 19:57:27.701 +01:00 [INF] Number of files copied is: 11
+2023-04-17 19:58:16.965 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-17 19:58:17.034 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-17 19:58:17.037 +01:00 [INF] Number of files copied is: 22
+2023-04-19 17:45:20.486 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 17:45:20.525 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 17:45:20.527 +01:00 [INF] Number of files copied is: 22
+2023-04-19 17:55:52.843 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 17:55:52.926 +01:00 [ERR] Could not access directory!
+2023-04-19 17:55:52.928 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 17:55:53.075 +01:00 [ERR] Could not access directory!
+2023-04-19 17:55:53.079 +01:00 [INF] Number of files copied is: 0
+2023-04-19 17:56:48.193 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 17:56:48.269 +01:00 [ERR] Could not access directory!
+2023-04-19 17:56:48.272 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 17:56:48.293 +01:00 [ERR] Could not access directory!
+2023-04-19 17:56:48.294 +01:00 [INF] Number of files copied is: 0
+2023-04-19 17:57:03.048 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 17:57:03.097 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 17:57:03.099 +01:00 [INF] Number of files copied is: 22
+2023-04-19 17:58:50.913 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 17:58:50.978 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 17:58:50.983 +01:00 [INF] Number of files copied is: 22
+2023-04-19 17:58:59.343 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 17:58:59.466 +01:00 [ERR] Could not access directory!
+2023-04-19 17:58:59.469 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 17:58:59.491 +01:00 [ERR] Could not access directory!
+2023-04-19 17:58:59.492 +01:00 [INF] Number of files copied is: 1
+2023-04-19 18:09:39.459 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:09:39.526 +01:00 [INF] Directory C:\Users\stuar\OneDrive\Desktop\Laptop-Backup has been created
+2023-04-19 18:09:39.580 +01:00 [ERR] Could not access directory!
+2023-04-19 18:09:39.584 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:09:39.633 +01:00 [ERR] Could not access directory!
+2023-04-19 18:09:39.635 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:10:58.332 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:10:58.403 +01:00 [INF] Directory C:\Users\stuar\OneDrive\Desktop\Laptop-Backup has been created
+2023-04-19 18:10:58.434 +01:00 [ERR] Could not access directory!
+2023-04-19 18:10:58.437 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:10:58.464 +01:00 [ERR] Could not access directory!
+2023-04-19 18:10:58.466 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:11:16.977 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:11:17.063 +01:00 [ERR] Could not access directory!
+2023-04-19 18:11:17.066 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:11:17.093 +01:00 [ERR] Could not access directory!
+2023-04-19 18:11:17.096 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:12:37.267 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:12:37.320 +01:00 [INF] Directory C:\Users\stuar\OneDrive\Desktop\Laptop-Backup has been created
+2023-04-19 18:12:37.346 +01:00 [ERR] Could not access directory!
+2023-04-19 18:12:37.349 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:12:37.369 +01:00 [ERR] Could not access directory!
+2023-04-19 18:12:37.371 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:13:24.037 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:13:24.133 +01:00 [ERR] Could not access directory!
+2023-04-19 18:13:24.136 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:13:24.170 +01:00 [ERR] Could not access directory!
+2023-04-19 18:13:24.171 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:14:09.883 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:14:09.937 +01:00 [ERR] Could not access directory!
+2023-04-19 18:14:09.941 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:14:09.962 +01:00 [ERR] Could not access directory!
+2023-04-19 18:14:09.965 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:14:41.011 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:14:41.067 +01:00 [ERR] Could not access directory!
+2023-04-19 18:14:41.070 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:14:41.086 +01:00 [ERR] Could not access directory!
+2023-04-19 18:14:41.087 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:14:52.728 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:14:58.288 +01:00 [ERR] Could not access directory!
+2023-04-19 18:14:58.290 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:20:06.416 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:25:34.877 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:25:34.956 +01:00 [INF] Directory C:\Users\stuar\OneDrive\Desktop\Laptop-Backup has been created
+2023-04-19 18:25:35.085 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:25:35.112 +01:00 [ERR] Could not access directory!
+2023-04-19 18:25:35.114 +01:00 [INF] Number of files copied is: 11
+2023-04-19 18:27:15.989 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:27:16.087 +01:00 [ERR] Could not access directory!
+2023-04-19 18:27:16.090 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:27:16.110 +01:00 [ERR] Could not access directory!
+2023-04-19 18:27:16.112 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:28:09.452 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:28:09.520 +01:00 [ERR] Could not access directory!
+2023-04-19 18:28:09.522 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:28:09.540 +01:00 [ERR] Could not access directory!
+2023-04-19 18:28:09.542 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:34:48.656 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:34:48.736 +01:00 [ERR] Could not access directory!
+2023-04-19 18:34:48.739 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:34:48.754 +01:00 [ERR] Could not access directory!
+2023-04-19 18:34:48.755 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:34:56.150 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:34:56.199 +01:00 [ERR] Could not access directory!
+2023-04-19 18:34:56.202 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:34:56.215 +01:00 [ERR] Could not access directory!
+2023-04-19 18:34:56.217 +01:00 [INF] Number of files copied is: 0
+2023-04-19 18:35:05.315 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:35:56.711 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:37:08.853 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:38:28.715 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:41:56.780 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:43:35.432 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:44:08.057 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:45:06.593 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:45:39.225 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:45:39.305 +01:00 [INF] Number of files copied is: 22
+2023-04-19 18:46:07.115 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Desktop\Test 
+2023-04-19 18:46:07.198 +01:00 [INF] Getting Files from Directory:C:\Users\stuar\OneDrive\Documents\Test2 
+2023-04-19 18:46:07.261 +01:00 [INF] Number of files copied is: 22
+2023-04-19 18:49:29.632 +01:00 [INF] Number of files copied is: 22
+2023-04-19 19:24:51.815 +01:00 [INF] Number of files copied is: 22
+2023-04-20 18:55:04.755 +01:00 [INF] Number of files copied is: 22
+2023-04-20 18:55:25.692 +01:00 [INF] Number of files copied is: 22
+2023-04-20 18:56:34.154 +01:00 [INF] Number of files copied is: 22
+2023-04-20 19:01:14.898 +01:00 [INF] Number of files copied is: 22
+2023-04-20 19:06:08.158 +01:00 [INF] Number of files copied is: 22
+2023-04-20 19:06:26.964 +01:00 [INF] Number of files copied is: 22
+2023-04-20 19:08:21.369 +01:00 [INF] Number of files copied is: 22
+2023-04-20 19:10:16.059 +01:00 [INF] Number of files copied is: 0
+2023-04-20 19:14:07.923 +01:00 [INF] Number of files copied is: 0
+2023-04-20 19:19:13.154 +01:00 [INF] Number of files copied is: 11
+2023-04-20 19:20:26.939 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:28:06.992 +01:00 [INF] Number of files copied is: 11
+2023-04-25 17:28:34.177 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:37:12.906 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:37:37.293 +01:00 [ERR] Could not access directory!
+2023-04-25 17:37:37.309 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:38:22.055 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:38:27.660 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:39:07.256 +01:00 [INF] Number of files copied is: 1
+2023-04-25 17:39:31.920 +01:00 [INF] Number of files copied is: 10
+2023-04-25 17:56:10.096 +01:00 [INF] Number of files copied is: 11
+2023-04-25 17:56:25.840 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:56:57.553 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:57:19.101 +01:00 [INF] Number of files copied is: 0
+2023-04-25 17:57:28.258 +01:00 [INF] Number of files copied is: 11
+2023-04-25 17:58:00.297 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:00:05.865 +01:00 [INF] Number of files copied is: 11
+2023-04-25 18:00:20.001 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:01:00.951 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:01:26.217 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:03:05.998 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:03:31.444 +01:00 [INF] Number of files copied is: 1
+2023-04-25 18:04:27.383 +01:00 [INF] Number of files copied is: 1
+2023-04-25 18:06:46.328 +01:00 [INF] Number of files copied is: 11
+2023-04-25 18:07:22.608 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:07:38.015 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:07:57.843 +01:00 [INF] Number of files copied is: 2
+2023-04-25 18:08:04.802 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:09:13.573 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:09:37.332 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:10:13.751 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:12:10.725 +01:00 [INF] Number of files copied is: 14
+2023-04-25 18:12:52.749 +01:00 [INF] Number of files copied is: 11
+2023-04-25 18:13:21.661 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:15:41.710 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:21:42.334 +01:00 [INF] Number of files copied is: 1
+2023-04-25 18:21:57.962 +01:00 [INF] Number of files copied is: 11
+2023-04-25 18:22:23.296 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:22:37.167 +01:00 [INF] Number of files copied is: 1
+2023-04-25 18:29:53.368 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:30:18.072 +01:00 [INF] Number of files copied is: 1
+2023-04-25 18:32:09.087 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:33:05.987 +01:00 [INF] Number of files copied is: 3
+2023-04-25 18:33:34.346 +01:00 [INF] Number of files copied is: 0
+2023-04-25 18:35:28.495 +01:00 [ERR] Could not access directory!System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\stuar\OneDrive\Documents\Test22'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Program.Main(String[] args) in C:\Users\stuar\OneDrive\Desktop\Projects\AutoBackup\AutoBackup\Program.cs:line 27
+2023-04-25 18:35:28.513 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:35:53.071 +01:00 [ERR] Could not access directory!
+2023-04-25 18:35:53.095 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:36:25.948 +01:00 [ERR] Could not access directory!Directories
+2023-04-25 18:36:25.964 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:36:39.075 +01:00 [ERR] Could not access directory!Directories
+2023-04-25 18:36:39.101 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:37:17.264 +01:00 [ERR] Could not access directory! + Directories
+2023-04-25 18:37:17.278 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:37:47.731 +01:00 [ERR] Could not access directory! + Directories
+2023-04-25 18:37:47.754 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:38:21.988 +01:00 [ERR] Could not access directory! + System.Func`1[System.String]
+2023-04-25 18:38:22.011 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:38:54.610 +01:00 [ERR] Could not access directory:System.Func`1[System.String]
+2023-04-25 18:39:10.818 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:56:10.159 +01:00 [ERR] Could not access directory:System.Func`2[System.String,System.String]
+2023-04-25 18:56:10.178 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:56:21.830 +01:00 [ERR] Could not access directory:System.Func`2[System.String,System.String]
+2023-04-25 18:56:21.855 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:57:01.401 +01:00 [ERR] Could not access directory:C:\Users\stuar\OneDrive\Documents\Test22
+2023-04-25 18:57:01.417 +01:00 [INF] Number of files backed up: 0
+2023-04-25 18:57:21.604 +01:00 [INF] Number of files backed up: 0
+2023-04-25 19:09:21.618 +01:00 [INF] Number of files backed up: 0
+2023-04-25 19:09:41.949 +01:00 [INF] Number of files backed up: 1
+2023-04-25 19:18:15.157 +01:00 [INF] Number of files backed up: 11
+2023-04-25 19:18:37.917 +01:00 [INF] Number of files backed up: 0
+2023-04-25 19:18:50.494 +01:00 [INF] Number of files backed up: 1
+2023-04-26 18:48:22.171 +01:00 [INF] Number of files backed up: 0
+2023-04-26 18:48:42.173 +01:00 [INF] Number of files backed up: 1
