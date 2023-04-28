@@ -292,3 +292,15 @@
 2023-04-25 19:18:50.494 +01:00 [INF] Number of files backed up: 1
 2023-04-26 18:48:22.171 +01:00 [INF] Number of files backed up: 0
 2023-04-26 18:48:42.173 +01:00 [INF] Number of files backed up: 1
+2023-04-26 19:03:54.321 +01:00 [INF] Number of files backed up: 1
+2023-04-26 19:06:53.307 +01:00 [INF] Number of files backed up: 0
+2023-04-26 19:12:58.593 +01:00 [INF] Number of files backed up: 0
+2023-04-26 19:13:17.176 +01:00 [INF] Number of files backed up: 1
+2023-04-26 19:48:00.302 +01:00 [INF] Number of files backed up: 0
+2023-04-26 19:48:40.706 +01:00 [INF] Number of files backed up: 1
+2023-04-26 20:00:29.324 +01:00 [INF] Number of files backed up: 0
+2023-04-26 20:00:55.768 +01:00 [INF] Number of files backed up: 1
+2023-04-26 20:02:57.063 +01:00 [INF] Number of files backed up: 0
+2023-04-26 20:03:14.363 +01:00 [INF] Number of files backed up: 1
+2023-04-26 20:07:27.658 +01:00 [INF] Number of files backed up: 0
+2023-04-26 20:09:53.711 +01:00 [INF] Number of files backed up: 3

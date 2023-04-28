@@ -2,34 +2,32 @@
 using System.IO;
 using Newtonsoft.Json;
 
-internal class Program
+internal partial class Program
 {
+
     private static void Main(string[] args)
     {
-        Log.Logger = new LoggerConfiguration()
-            .WriteTo.Console()
-            .WriteTo.File("C:\\Users\\stuar\\OneDrive\\Desktop\\Projects\\AutoBackup\\Log.txt")
-            .CreateLogger();
-
-        string json = System.IO.File.ReadAllText("AppSettings.json");
-      
-        Directories[] Dirs = JsonConvert.DeserializeObject<Directories[]>(json);
-
-        int count = 0;
+        InitiateLog();
+        Directories[] Dirs = GetDirectories();
         string destination = "C:\\Users\\stuar\\OneDrive\\Desktop\\Laptop-Backup";
+        RunBackup(Dirs, destination);
+        Console.WriteLine("Number of files backed up: " + Counter.count);
+        Log.Information("Number of files backed up: " + Counter.count);
+        Log.CloseAndFlush();
+    }
 
-
+    private static void RunBackup(Directories[] Dirs, string destination)
+    {
         foreach (Directories d in Dirs)
         {
-           
+
             try
             {
-                string[] GetFiles = Directory.GetFiles(d.dir, "*", System.IO.SearchOption.AllDirectories);
-                Console.WriteLine($"Getting Files from Directory:{d.dir} ");
-                
+                string[] GetFiles = FetchFilesFromDirectory(d);
+
                 foreach (string file in GetFiles)
 
-                {   
+                {
                     string fileName = Path.GetFileName(file);
                     string target = Path.Combine(destination, fileName);
 
@@ -40,7 +38,7 @@ internal class Program
                         Console.WriteLine($"Directory {destination} has been created");
                         File.Copy(file, target, true);
                         Console.WriteLine(file);
-                        count++;
+                        Counter.count++;
                     }
                     else if (Directory.Exists(destination) && File.Exists(target))
                     {
@@ -51,7 +49,7 @@ internal class Program
                         {
                             File.Copy(file, target, true);
                             Console.WriteLine($"{file} was overwritten");
-                            count++;
+                            Counter.count++;
                         }
                         else
                         {
@@ -63,26 +61,41 @@ internal class Program
                     {
                         File.Copy(file, target, true);
                         Console.WriteLine(file);
-                        count++;
+                        Counter.count++;
                     }
                 }
-                
+
             }
             catch (IOException)
             {
 
-               Log.Error($"Could not access directory:{d.dir}");
+                Log.Error($"Could not access directory:{d.dir}");
 
             }
-            
+
         }
-        Console.WriteLine("Number of files backed up: " + count);
-        Log.Information("Number of files backed up: " + count);
-        Log.CloseAndFlush();    
     }
 
+    private static string[] FetchFilesFromDirectory(Directories d)
+    {
+        string[] GetFiles = Directory.GetFiles(d.dir, "*", System.IO.SearchOption.AllDirectories);
+        Console.WriteLine($"Getting Files from Directory:{d.dir} ");
+        return GetFiles;
+    }
 
+    private static Directories[] GetDirectories()
+    {
+        string json = System.IO.File.ReadAllText("AppSettings.json");
+        Directories[] Dirs = JsonConvert.DeserializeObject<Directories[]>(json);
+        return Dirs;
+    }
 
+    private static void InitiateLog()
+    {
+        Log.Logger = new LoggerConfiguration()
+                    .WriteTo.Console()
+                    .WriteTo.File("C:\\Users\\stuar\\OneDrive\\Desktop\\Projects\\AutoBackup\\Log.txt")
+                    .CreateLogger();
+    }
 
-       
 }
